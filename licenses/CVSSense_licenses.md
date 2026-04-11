@@ -1,0 +1,78 @@
+# PROPRIETARY SOFTWARE LICENSE \& EULA
+
+
+
+Copyright (c) 2026 K3res. All rights reserved.
+
+
+
+This license governs the use of the software product “CVSSense” and all accompanying files, except for third-party components listed separately. “CVSSense” is proprietary and confidential software.
+
+
+
+### 1\. LICENSE TIERS
+
+
+
+#### A. CVSSense BASIC (Free Version)
+
+
+
+Grant: Licensee is granted a non-exclusive, non-transferable license to use the Basic features for internal, non-commercial assessment purposes.
+
+Limitations: Usage is limited to three (3) saved presets. Access to the AI Engine, automated suggestions, and OWASP Top 10 Integration is strictly prohibited and technically disabled.
+
+
+
+### 2\. PROPRIETARY RIGHTS \& RESTRICTIONS
+
+
+
+CVSSense is licensed, not sold. All intellectual property rights, including but not limited to the source code, logic, "Decision Assistant" workflows, and UI design, remain the exclusive property of K3res.
+
+
+
+The following is strictly prohibited without prior written permission from K3res:
+
+
+
+Redistribution of CVSSense in whole or in part.
+
+Sale, sublicensing, leasing, or transfer of CVSSense to third parties.
+
+Modification, reverse engineering, decompilation, or the creation of derivative works (e.g., building a separate tool based on CVSSense logic).  
+
+Circumventing or attempting to bypass technical limitations or feature locks (e.g., unlocking Pro features in the Basic version).
+
+Incorporation of CVSSense logic or code into other products or services.
+
+
+
+### 3\. THIRD-PARTY SOFTWARE NOTICE
+
+
+
+This product contains software components (including cvss40.js) developed by FIRST.ORG, Inc., Red Hat, and contributors, licensed under the BSD 2-Clause License.
+
+
+
+The original copyright notices and disclaimers for these components are preserved in the accompanying cvss40.js\_licenses.txt file.
+
+The use of these third-party components does not grant the Licensee any rights to the proprietary portions of CVSSense.
+
+
+
+### 4\. NO WARRANTY \& LIMITATION OF LIABILITY
+
+
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+
+
+IN NO EVENT SHALL K3RES BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+
+ALL RIGHTS NOT EXPRESSLY GRANTED ARE RESERVED BY K3RES.
+

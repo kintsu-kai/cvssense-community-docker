@@ -1,0 +1,7 @@
+services:
+  cvssense:
+    image: k3res/cvssense_community:latest
+    container_name: cvssense-community
+    ports:
+      - "8080:80"
+    restart: always
