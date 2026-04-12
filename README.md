@@ -4,14 +4,14 @@
 
 **CVSSense** is a private initiative developed to streamline the workflow of professional security assessments. This Community Edition serves as a first insight into the core logic of the tool, designed to provide immediate value to the security community.
 
----
+
 
 ## 📸 Demo
 
 ![CVSSense Dashboard Preview](https://via.placeholder.com/800x450.png?text=Insert+App+Screenshot+Here)  
 *A look at the CVSS 4.0 scoring interface and decision support system.*
 
----
+
 
 ## 📦 Installation
 
@@ -41,7 +41,7 @@ Once the container is successfully initialized, you can access the application t
 3. **Utilize Decision Support:** If unsure about a metric, refer to the built-in **Standard Decision Assistant** for guidance.
 4. **Save Configuration:** Store your result as one of your 5 available session presets for quick reference.
 
----
+
 
 ## ✨ Features
 
@@ -50,7 +50,7 @@ Once the container is successfully initialized, you can access the application t
 * **Containerized Stability:** Runs in an isolated environment, ensuring that host system updates don't break the tool.
 * **Visual Insights:** Includes a basic vulnerability graph to help visualize the impact of the score.
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -58,7 +58,7 @@ Once the container is successfully initialized, you can access the application t
 * **Standardization:** CVSS v4.0 Framework
 * **Architecture:** Secure Containerized Microservice
 
----
+
 
 ## 🤝 Feedback & Collaboration
 
@@ -70,7 +70,7 @@ We value input from the security community to help refine CVSSense.
 > [!IMPORTANT]
 > **Community Guidelines:** To maintain a productive exchange, we only respond to constructive and professional feedback.
 
----
+
 
 ## 📄 License
 
@@ -79,7 +79,7 @@ It is free to use for individual security assessments and trial purposes.
 
 © 2026 CVSSense Initiative. All rights reserved.
 
----
+
 
 ## 🙌 Credits & Acknowledgments
 
