@@ -64,7 +64,7 @@ Once the container is successfully initialized, you can access the application t
 
 We value input from the security community to help refine CVSSense.
 
-* **Bug Reports & Suggestions:** Please email us at **KintDoFeedback@hotmail.com**.
+* **Bug Reports & Suggestions:** Please email us at **CVSSsense@hotmail.com**.
 * **Professional Inquiries:** Contact us for details regarding the upcoming **Professional Edition**, featuring AI-assisted scoring and enterprise reporting.
 
 > [!IMPORTANT]
@@ -83,7 +83,7 @@ CVSSense is proprietary software. By installing or using this application, you a
 * **Restrictions:** Redistribution, modification, reverse engineering, or incorporating this logic into other products is strictly prohibited without prior written consent.
 
 ### Third-Party Components:
-[cite_start]This product contains software components (including `cvss40.js`) developed by **FIRST.ORG, Inc., Red Hat, and contributors**, licensed under the **BSD 2-Clause License**.
+This product contains software components (including `cvss40.js`) developed by **FIRST.ORG, Inc., Red Hat, and contributors**, licensed under the **BSD 2-Clause License**.
 
 Detailed legal documents can be found in the `license` folder of this repository:
 * `license/EULA.md` – End User License Agreement
