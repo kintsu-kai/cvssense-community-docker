@@ -9,8 +9,6 @@
 ## 📸 Demo
 
 <img src="https://github.com/user-attachments/assets/f4775260-0ecd-4088-86cb-8e1d2a58417d" width="100%" alt="CVSSense Dashboard Preview">
-*A look at the CVSS 4.0 scoring interface.*
-
 
 
 ## 📦 Installation
@@ -64,8 +62,16 @@ Once the container is successfully initialized, you can access the application t
 
 We value input from the security community to help refine CVSSense.
 
-* **Bug Reports & Suggestions:** Please email us at **CVSSsense@hotmail.com**.
-* **Professional Inquiries:** Contact us for details regarding the upcoming **Professional Edition**, featuring AI-assisted scoring and enterprise reporting.
+* **Feedback, Bug Reports & Suggestions:**  
+Please use our Google Form to submit all feedback, bug reports, and feature suggestions:  
+👉 [Google Form](https://forms.gle/grad9HebQ2hEE9vr9).
+
+* **Further Questions, Additional Comments & Interest:**  
+For any other inquiries or if you would like to share additional comments or express general interest, please contact us via email:  
+📩 CVSSsense@hotmail.com
+
+* **Professional Edition (Coming Soon):**  
+If you are interested in the upcoming Professional Edition, featuring AI-assisted scoring and enterprise reporting, feel free to reach out via email for more information.
 
 > [!IMPORTANT]
 > **Community Guidelines:** To maintain a productive exchange, we only respond to constructive and professional feedback.
