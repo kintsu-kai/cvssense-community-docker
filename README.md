@@ -67,9 +67,9 @@ Please use our Google Form to submit all feedback, bug reports, and feature sugg
 👉 [Google Form](https://forms.gle/grad9HebQ2hEE9vr9).
 
 * **Further Questions, Additional Comments & Interest:**  
-For any other inquiries, if you would like to share additional comments, or to express general interest, please contact us via email or join our Discord:
-📩 hello@kintsukai.org
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ughQasTBPz)
+For any other inquiries, if you would like to share additional comments, or to express general interest, please contact us via email or join our Discord:  
+📩 hello@kintsukai.org  
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ughQasTBPz)  
 
 * **Professional Edition (Coming Soon):**  
 If you are interested in the upcoming Professional Edition, featuring AI-assisted scoring and enterprise reporting, feel free to reach out via email or join us on Discord for more information.
