@@ -68,7 +68,7 @@ Please use our Google Form to submit all feedback, bug reports, and feature sugg
 
 * **Further Questions, Additional Comments & Interest:**  
 For any other inquiries, if you would like to share additional comments, or to express general interest, please contact us via email or join our Discord:   <br>
-📩 hello@kintsukai.org  <br>
+📩 cvssense@kintsukai.org  </br>
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ughQasTBPz)
 
 * **Professional Edition (Coming Soon):**  
